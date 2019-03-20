@@ -1,0 +1,66 @@
+.card .card-image .card-title {
+  color: #fff;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  padding: 0;
+  background: #000;
+  opacity: 0.8;
+  width: 100%;
+  text-align: center;
+}
+
+.card-image > img {
+  padding: 24px;
+}
+
+.card .card-content {
+  padding: 6px;
+}
+
+.card-action {
+  text-align: center;
+  padding: 0 !important;
+}
+
+.card-action > a{
+  display: block;
+  width: 100% !important;
+  background: #c60508;
+  font-size: 13px;
+  border-radius: 3px;
+}
+
+.car-info {
+  position: absolute;
+  top: 4%;
+  left: 4%;
+  line-height: 1.2;
+}
+
+.promo-badge {
+  position: absolute;
+  top: 2.6%;
+  right: 1%;
+  width: 42%;
+}
+
+.promo-badge > span > img{
+  width: 100%;
+}
+
+.reference-img {
+  text-align: center;
+}
+
+.listing-price {
+  font-size: 14px;
+}
+
+.price {
+  color: #c60508;
+  font-size: 30px;
+  padding: 6px 20px 18px 20px;
+  font-weight: 600;
+}
